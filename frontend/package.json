@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.7.7",
+    "frontend": "file:",
     "notistack": "^3.0.1",
     "process": "^0.11.10",
     "react": "^18.2.0",
