@@ -31,7 +31,7 @@ npm install
 npm run dev
 ```
 
-![homePage](images\homePage.png)
-![bookCard](images\bookCard.png)
-![editBook](images\editBook.png)
-![createBook](images\createBook.png)
+![homePage](images/homePage.png)
+![bookCard](images/bookCard.png)
+![editBook](images/editBook.png)
+![createBook](images/createBook.png)
